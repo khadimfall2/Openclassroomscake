@@ -1,0 +1,55 @@
+/* corrigé Feuille de styles CSS */
+
+h1 {
+    color: rgb(255,0,0);
+    font-size: 3em;
+  }
+  
+  figure {
+    text-align:center;
+  }
+  
+  
+  ul {
+    border: 1px solid red;
+    box-shadow: 6px 6px 0px black;
+  }
+  
+  
+  a:hover {
+    font-weight:bold;
+  }
+  
+/* mon code
+Feuille de styles CSS 
+Affichez le titre h1 en rouge.
+
+Agrandissez le titre h1 pour lui donner une taille de 3em.
+
+Centrez la figure (image) et sa description.
+
+Ajoutez une bordure continue de la taille et de la couleur de votre choix autour de la liste à puces.
+
+Ajoutez une ombre au cadre autour de la liste à puces.
+
+Affichez les liens en gras lorsqu'on les survole.
+
+h1
+{
+  color:red;
+  font-size:3em;
+}
+ figure
+{
+  text-align:center;
+}
+ul
+{
+  border:10px solid blue;
+  box-shadow:10px 15px 10px blue;
+}
+a:hover
+{
+  color:red;
+}
+*/
